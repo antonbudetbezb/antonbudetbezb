@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @antonbudetbezb
-- 👀 I’m interested in Dev on JS and crypto
-- 🌱 I’m currently learning JS for beginners
-- 💞️ I’m looking to collaborate on creating web3 app
-- 📫 How to reach me use links in my BIO
+- 👀 I’m interested in web2/web3 development
